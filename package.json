@@ -1,12 +1,11 @@
 {
   "name": "anees-hanif-words-counter",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "This is a simple cli based words counter app",
   "main": "index.js",
   "type": "module",
-  "bin":{
-
-    "anees-hanif-words-counter": "dist/index.js"
+  "bin": {
+    "anees-hanif-words-counter": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

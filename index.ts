@@ -1,8 +1,8 @@
-#! usr/bin/env node
+#!/usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(
-  chalk.greenBright.bold.overline.bgWhiteBright(
+  chalk.greenBright.bold.bgWhiteBright(
     "\t\t\t\t\t\t Currency Converter"
   )
 );
