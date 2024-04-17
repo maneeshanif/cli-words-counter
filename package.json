@@ -4,7 +4,10 @@
   "description": "This is a simple cli based words counter app",
   "main": "index.js",
   "type": "module",
-  "bin": "index.js",
+  "bin":{
+
+    "words-counter": "dist/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
