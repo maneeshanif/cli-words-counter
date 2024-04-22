@@ -1,6 +1,6 @@
 {
   "name": "anees-hanif-words-counter",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "This is a simple cli based words counter app",
   "main": "index.js",
   "type": "module",

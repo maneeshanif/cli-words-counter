@@ -3,7 +3,7 @@ import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(
   chalk.greenBright.bold.bgWhiteBright(
-    "\t\t\t\t\t\t Currency Converter"
+    "\t\t\t\t\t\t Words Counter"
   )
 );
 console.log(chalk.blueBright("\nDeveloped By:"));
